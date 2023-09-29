@@ -28,3 +28,5 @@
 7.     *Cтрока – ненумерованные списки, символ “*” в начале строки
 
 8.     1, 2, 3 … – нумерованные списки
+
+***Справочник по Markdown от Microsoft: https://docs.microsoft.com/ru-ru/contribute/markdown-reference***
